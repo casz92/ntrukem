@@ -30,7 +30,7 @@ defmodule NtruKem.MixProject do
     [
       name: "ntrukem",
       description: "Post-quantum NTRU Key Encapsulation Mechanism (NTRU KEM) NIF for Elixir",
-      files: ~w(lib c_src mix.exs README* libntru Makefile),
+      files: ~w(lib c_src mix.exs README* LICENSE* Makefile),
       maintainers: ["Carlos Suarez"],
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/casz92/ntrukem"}
