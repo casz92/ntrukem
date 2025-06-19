@@ -63,8 +63,8 @@ mix run test/ntru_test.exs
 
 ## 📚 More Info
 
-[NTRU-HRSS-KEM specification](https://ntru-hrss.org)
-[Post-Quantum Cryptography by NIST](https://csrc.nist.gov/Projects/post-quantum-cryptography)
+- [NTRU-HRSS-KEM specification](https://ntru-hrss.org)
+- [Post-Quantum Cryptography by NIST](https://csrc.nist.gov/Projects/post-quantum-cryptography)
 
 ## ⚖️ License
 This project is licensed under the MIT License. You can find the full details in the LICENSE file.
